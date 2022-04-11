@@ -10,7 +10,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Mis espectativas para este curso son:
 
 -Ampliar mi conocimiento en el area del back-end
+
 -Conocer como trabajan las grandes empresas
+
 -Desarrollar nuevas habilidades ocn Javascript
 
 🚀
